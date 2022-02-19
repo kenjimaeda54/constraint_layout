@@ -13,7 +13,12 @@ Recordar o uso do contranst layout para criar aplicativos
 - Existe um recurso conhecido como bias, ele possui horizontal e vertical.
 - Bias diminui a forca das correntes
 - Também e possível construir layouts usando recurso de angulo, para funcionar precisa ser em relação ao um filho
-
+- Outro recurso que semelha muito ao flex box e o uso de chain
+- Existe spreat_inside,packed e spread
+- Spreat_inside ele espalha os itens conforme as bordas assim as distâncias entre filhos ficam maiores
+- Spreat aproxima os filhos assim a distancia fica menor
+- O padrão e o packed, ele não afeta os filhos
+- Para usar o recurso de chain os filhos precisam estar interligados
 
 
 ``` kotlin
